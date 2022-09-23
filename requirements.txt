@@ -70,7 +70,7 @@ Pillow==5.0.0
 pip-upgrader==1.4.4
 pkg-resources==0.0.0
 prompt-toolkit==1.0.15
-protobuf==3.5.0.post1
+protobuf==3.18.3
 ptyprocess==0.5.2
 pycparser==2.18
 pydicom==0.9.9
